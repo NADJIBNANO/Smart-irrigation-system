@@ -15,14 +15,12 @@
   // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBDYouGnaVuikeMPX64pdSY_wsNCR0HguQ",
-  authDomain: "smart-irrigation-system-c6c44.firebaseapp.com",
-  databaseURL: "https://smart-irrigation-system-c6c44-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "smart-irrigation-system-c6c44",
-  storageBucket: "smart-irrigation-system-c6c44.firebasestorage.app",
-  messagingSenderId: "956150389179",
-  appId: "1:956150389179:web:1485263347893796be0c9e",
-  measurementId: "G-ZX7N5NMDKS"
+  apiKey: "AIzaSyBTxZMOfmzGwpbKw-zqcIkLcH043oYXtHI",
+  authDomain: "smart-irrigation-system-322e2.firebaseapp.com",
+  projectId: "smart-irrigation-system-322e2",
+  storageBucket: "smart-irrigation-system-322e2.firebasestorage.app",
+  messagingSenderId: "25834717374",
+  appId: "1:25834717374:web:60bffa4e30d88f49dedeef"
 };
 
   // Initialize Firebase
